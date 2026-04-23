@@ -1,6 +1,7 @@
-# GetStartedWithGit
+# Get Started With Git & GitHub
 Get started with Git, GitHub, and version control!
 
+<i>Assuming you have a GitHub account; if not, create one!</i>
 
 ### --> Mac users:
 1) Download Homebrew:
@@ -22,3 +23,10 @@ Get started with Git, GitHub, and version control!
    -> https://github.com/cli/cli/releases/download/v2.91.0/gh_2.91.0_windows_amd64.msi
 3) Log in to GitHub:
    -> gh auth login [choose HTTPS]
+
+
+Elementary "git" commands:
+- git pull origin main
+- git add .
+- git commit -m "<MESSAGE>"
+- git push -u origin main
