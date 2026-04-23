@@ -24,7 +24,7 @@ Get started with Git, GitHub, and version control!
 3) Log in to GitHub:
    -> gh auth login [choose HTTPS]
 
-\
+
 ### Elementary "git" commands:
 - git pull origin main
 - git add .
